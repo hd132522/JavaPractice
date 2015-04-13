@@ -4,15 +4,15 @@ public class TypeCasting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int ±Ş¿© = 1700000;
-		short Á÷¿ø¼ö = 3;
-		int Á¡Æ÷¼ö = 150;
-		long ÀÎ°Çºñ = (long)±Ş¿©*12*(long)Á÷¿ø¼ö*(long)Á¡Æ÷¼ö;
-		System.out.println("<<µğ¹Ìº£³× ¿¬°£ ÀÎ°£ºñ>>");
-		System.out.println("¿ù Æò±Õ ±Ş¿© : "+String.format("%,d",±Ş¿©) +"¿ø");
-		System.out.println("Á¡Æ÷³» Á÷¿ø ¼ö : "+Á÷¿ø¼ö+"¸í");
-		System.out.println("Á¡Æ÷¼ö : "+Á¡Æ÷¼ö+"°³");
-		System.out.println("¿¬°£ ÀÎ°Çºñ : "+String.format("%,d", ÀÎ°Çºñ)+"¿ø" );
+		int ê¸‰ì—¬ = 1700000;
+		short ì§ì›ìˆ˜ = 3;
+		int ì í¬ìˆ˜ = 150;
+		long ì¸ê±´ë¹„ = (long)ê¸‰ì—¬*12*(long)ì§ì›ìˆ˜*(long)ì í¬ìˆ˜;
+		System.out.println("<<ë””ë¯¸ë² ë„¤ ì—°ê°„ ì¸ê°„ë¹„>>");
+		System.out.println("ì›” í‰ê·  ê¸‰ì—¬ : "+String.format("%,d",ê¸‰ì—¬) +"ì›");
+		System.out.println("ì í¬ë‚´ ì§ì› ìˆ˜ : "+ì§ì›ìˆ˜+"ëª…");
+		System.out.println("ì í¬ìˆ˜ : "+ì í¬ìˆ˜+"ê°œ");
+		System.out.println("ì—°ê°„ ì¸ê±´ë¹„ : "+String.format("%,d", ì¸ê±´ë¹„)+"ì›" );
 	}
 
 }
