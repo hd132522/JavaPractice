@@ -13,7 +13,7 @@ package org.dimigo.oop;
  *
  * @auther : 박준래
  * @version : 1.8
- */
+ */  
 public class Car2 {
 		private String company = "현대자동차";
 		private String model ="제네시스";

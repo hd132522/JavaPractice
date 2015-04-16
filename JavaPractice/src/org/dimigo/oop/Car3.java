@@ -20,7 +20,7 @@ public class Car3 {
 		private String color = "검정색";
 		private int Maxspeed = 225;
 		private int price = 50000000;
-		
+		  
 		public Car3() {}
 		
 		public Car3(String newcompany, String newmodel, String newcolor, int newmaxspeed, int newprice){
