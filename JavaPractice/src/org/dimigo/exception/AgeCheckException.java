@@ -16,7 +16,6 @@ package org.dimigo.exception;
  */
 public class AgeCheckException extends Exception{
 	public AgeCheckException(){
-		super();
 	};
 	
 	public AgeCheckException(Movie movie){
